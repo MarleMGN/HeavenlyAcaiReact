@@ -33,10 +33,10 @@ const Landing = () => {
             />
           </div>
           <button className="prev" onClick={prevSlide}>
-            &#10094; Left
+            &#10094;
           </button>
           <button className="next" onClick={nextSlide}>
-            &#10095; Right
+            &#10095;
           </button>
           <div className="header__description">
             <h1 className="header__description--title"></h1>
