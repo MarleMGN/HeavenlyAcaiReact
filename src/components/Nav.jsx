@@ -1,6 +1,7 @@
 import React from "react";
 import HeavenlyLogo from "../assets/HeavenlyLogo.jpg";
 import { Link } from "react-router-dom"
+import nav_vines from "../assets/vines_nav_img.png";
 
 const Nav = () => {
   return (
